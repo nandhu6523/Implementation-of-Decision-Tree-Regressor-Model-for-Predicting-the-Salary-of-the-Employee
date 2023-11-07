@@ -69,9 +69,8 @@ MSE value:
  
   ![Screenshot 2023-11-07 203839](https://github.com/nandhu6523/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/123856724/5165d2c1-5f54-41d4-8130-552c1c88e4a9)
  
-
-
 r2 value:
+ 
  ![Screenshot 2023-11-07 203835](https://github.com/nandhu6523/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/123856724/52857809-e98f-4d17-b610-8f7fac527efc)
 
 
