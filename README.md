@@ -53,7 +53,9 @@ Data.head():
 ![Screenshot 2023-11-07 203127](https://github.com/nandhu6523/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/123856724/59296cf9-810d-4bba-bdcf-68f839abd105)
 
 Data.info():
-![Screenshot 2023-11-07 203135](https://github.com/nandhu6523/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/123856724/4c2d95f4-7a1f-4ec8-af73-f8a88bd0da09)
+
+
+   ![Screenshot 2023-11-07 203135](https://github.com/nandhu6523/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/123856724/4c2d95f4-7a1f-4ec8-af73-f8a88bd0da09)
 
 isnull() and sum():
 
